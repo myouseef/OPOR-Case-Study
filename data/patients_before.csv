@@ -1,0 +1,6 @@
+National_ID,Name,Department,Medication,Allergy
+12345,John Doe,Lab,None,None
+12345,John Doe,Pharmacy,Drug A,None
+12345,John Doe,Radiology,None,Penicillin
+67890,Jane Smith,Lab,None,None
+67890,Jane Smith,Pharmacy,Drug B,None
